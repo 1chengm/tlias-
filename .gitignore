@@ -1,1 +1,3 @@
 target
+.mvn
+src/test
